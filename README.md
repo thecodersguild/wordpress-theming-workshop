@@ -51,7 +51,7 @@
 - User-specific with User Meta
 - Site-specific with Options
 	 	
-#Using Starter Theme
+#Build with a Starter Theme Instead
 - Using [Underscores (_s)](http://underscores.me/)
 - Using [Foundation](http://foundation.zurb.com/) 
 
