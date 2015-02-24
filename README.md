@@ -3,5 +3,5 @@
 - Copyright &copy; 2015 NewClarity Consulting LLC; All Rights Reserved Worldwide.
 
 ---
-1. [Workshop Outline](blob/master/workshop-outline.md)
-2. ]Local Development Setup](blob/master/local-dev-setup.md)
+1. [Workshop Outline](workshop-outline.md)
+2. [Local Development Setup](local-dev-setup.md)
